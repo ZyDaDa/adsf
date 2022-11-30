@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fasdf
 gads
 gasdgag
@@ -6,3 +7,5 @@ adg
 
 
 gads
+=======
+>>>>>>> parent of 37576a5 ("test")
